@@ -610,20 +610,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: 20rem;
 }
 
-.h-8{
-  height: 2rem;
-}
-
-.h-7{
-  height: 1.75rem;
-}
-
-.h-40{
-  height: 10rem;
-}
-
 .h-60{
   height: 15rem;
+}
+
+.h-8{
+  height: 2rem;
 }
 
 .w-20{
@@ -654,32 +646,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   width: 2.25rem;
 }
 
-.w-2{
-  width: 0.5rem;
-}
-
-.w-2\/12{
-  width: 16.666667%;
-}
-
-.w-2\/3{
-  width: 66.666667%;
-}
-
-.w-2\/4{
-  width: 50%;
-}
-
-.w-2\/5{
-  width: 40%;
-}
-
 .max-w-xl{
   max-width: 36rem;
-}
-
-.max-w-full{
-  max-width: 100%;
 }
 
 .flex-grow{
